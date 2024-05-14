@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #3367d6;
+  height: 15vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 18px;
+}
+
+.logoEl {
+  height: 25px;
+  width: 80px;
+}
+
+.searchEl {
+  height: 20px;
+  width: 20px;
+}
+
+.MarginEl {
+  margin-right: 550px;
+}
+
+.paraWarning {
+  font-size: 19px;
+  text-align: center;
+  margin-top: 40px;
+}

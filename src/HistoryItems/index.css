@@ -1,0 +1,45 @@
+.listEl {
+  list-style-type: none;
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+}
+
+.rowArrangeEl1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.rowArrangeEl2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.timeEl {
+  font-family: roboto;
+  font-size: 14px;
+  margin: 8px;
+}
+
+.imageLogoEl {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.titleEl23 {
+  margin: 10px;
+}
+
+.DomainUrlEl {
+  margin: 10px;
+  color: #64748b;
+}
+
+.buttonEl23 {
+  background-color: transparent;
+  border-width: 0px;
+}
